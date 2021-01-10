@@ -58,12 +58,10 @@ The instructor reserves the right to apply a curve to the final result.
 
 | Category        | Percentage  |
 | ------------- |:-------------:| 
-| Programming and Reading Assignments    | 40% | 
-| Quizzes          | 20% |
-| Mid Term Exam | 20%|
+| Programming Assignments    | 40% | 
+| Quizzes          | 10% |
+| Reading Assignments and Paper Review | 30%|
 | Final Project       | 20% |
-
-
 
 ## Course Policies
 
