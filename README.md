@@ -59,10 +59,11 @@ The instructor reserves the right to apply a curve to the final result.
 | Category        | Percentage  |
 | ------------- |:-------------:| 
 | Programming Assignments    | 40% | 
-| Quizzes          | 10% |
-| Reading Assignments and Paper Review | 25%|
-| Survey and Class Participation| 5%|
+| Paper Reports | 25%|
 | Final Project       | 20% |
+| Quizzes          | 10% |
+| Survey and Class Participation| 5%|
+
 
 ## Course Policies
 
