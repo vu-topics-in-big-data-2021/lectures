@@ -10,6 +10,10 @@ The goal of this class is to cover the concepts and recent progress made in the 
  # Expectations
 
  It is expected that the student taking this course is familiar with concepts like git, ssh and cloud computing. Also the primary programming language to be used in the course is python, which is one of the common languages used in data science and big data systems. Lastly, though we will use cloud computing resources for all assignments it is going to be important that you have a working computer with access to a terminal. As a starting point feel free to already install python 3.8 on your system. You can use anaconda if you are familiar it. But any other python3 environment will be okay.  Lastly, you will be assigned papers on some key topics and will be expected to read and present discussion on them during the class.
+ 
+# Python Environment
+For example, a very simple way to set anaconda python is to install it on your machine and then create an environment. Just follow the instructions at https://github.com/vu-topics-in-big-data-2021/class-python-environment
+Alternatively, you can also just use google colab. See instructions in the instruction folder on bright space.
 
 # Course Outline [Tentative]
 
