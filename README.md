@@ -1,7 +1,6 @@
 # Lectures - Topics in Big Data CS:4266/5266
 
-The goal of this class is to cover the concepts and recent progress made in the area of the Big Data. The focus will be on principles and practices of data storage, data modeling techniques, data processing and querying, data analytics and applications of machine learning using these systems. Throughout the class you will learn about the applications of these topics in real-world cases studies such as public transit systems and Emergency Response Systems. Visit the following sites and look at the dashboards to see an example of how we use these techniques for some of our projects.
-
+The goal of this class is to cover the concepts and recent progress made in the area of Big Data. The focus will be on principles and practices of data storage, data modeling techniques, data processing and querying, data analytics, and applications of machine learning using these systems. Throughout the class, you will learn about the applications of these topics in real-world case studies such as public transit systems and Emergency Response Systems. Visit the following sites and look at the dashboards to see an example of how we use these techniques for some of our projects.
 
  * https://smarttransit.ai/
  * https://statresp.ai
@@ -9,36 +8,14 @@ The goal of this class is to cover the concepts and recent progress made in the 
 
  # Expectations
 
- It is expected that the student taking this course is familiar with concepts like git, ssh and cloud computing. Also the primary programming language to be used in the course is python, which is one of the common languages used in data science and big data systems. Lastly, though we will use cloud computing resources for all assignments it is going to be important that you have a working computer with access to a terminal. As a starting point feel free to already install python 3.8 on your system. You can use anaconda if you are familiar it. But any other python3 environment will be okay.  Lastly, you will be assigned papers on some key topics and will be expected to read and present discussion on them during the class.
+It is expected that the student taking this course is familiar with concepts like git, ssh, and cloud computing. Also, the primary programming language to be used in the course is python, which is one of the common languages used in data science and big data systems. Lastly, though we will use cloud computing resources for all assignments it is going to be important that you have a working computer with access to a terminal. As a starting point feel free to already install python 3.8 on your system. You can use anaconda if you are familiar with it. But any other python3 environment will be okay. Lastly, you will be assigned papers on some key topics and will be expected to read and write a report, which will be graded.
  
 # Python Environment
-For example, a very simple way to set anaconda python is to install it on your machine and then create an environment. Just follow the instructions at https://github.com/vu-topics-in-big-data-2021/class-python-environment
-Alternatively, you can also just use google colab. See instructions in the instruction folder on bright space.
+For example, a very simple way to set anaconda python is to install it on your machine and then create an environment. Just follow the instructions at https://github.com/vu-topics-in-big-data-2021/class-python-environment Alternatively, you can also just use [google colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c). See instructions in the instruction folder on bright space.
 
 # Course Outline [Tentative]
 
-- Course Overview and a presentation on applications of big data in real-world. 
-- Data Sources: Overview of IoT Systems and the problem of velocity, variety and volume
-- Publish/Subscribe Paradigm: Kafka and Pulsar and MQTT
-- Data Storage: History of databases
-- SQL Database Anatomy: Transactions, Concurrent Access and Joins
-- Understanding NoSQL: Big Table, MongoDB, Dynamo DB
-- Understanding Graph Databases
-- Understanding Time Series Databases
-- Data Processing: Cloud Computing and orchestrating big data workflows
-- Batch Computing Models: Map Reduce, Spark and RDD
-- Stream Processing Models: Spark streaming, Heron
-- Fault Tolerance and Consensus: Zookeeper, Paxos, Raft
-- Visualizing Big Data
-- Machine Learning for Big Data: SparkML, Pandas, Dask
-- Projects
-  - Transit Occupancy Analysis. See https://arxiv.org/abs/2008.02413 for motivation
-  - Transit Energy Analysis and Optimization. See https://smarttransit.ai/files/aymantoit2020.pdf for motivation
-  - Emergency Response Optimization. see https://arxiv.org/pdf/2010.07504.pdf and https://statresp.ai for motivation
-- Misc topics if time permits
-   - Memcached
-   - Dremel
-   - SparkML
+Please see the [schedule](https://docs.google.com/spreadsheets/d/1S6dYhV9UzUiSuenGvq8ULp_EZlxMD_NGOgtBXjxoBUI/edit?usp=sharing)
 
 ## Instructors
 
@@ -49,7 +26,7 @@ Alternatively, you can also just use google colab. See instructions in the instr
 
 If you are interested in the research work of the team visit: https://scopelab.ai/
 
-## Evaluation [Tentative]
+## Evaluation  Criteria
 
 The following grading criteria are tentative and are
 subject to change. Each graded item in this course will be assigned a
@@ -57,8 +34,6 @@ certain number of points. Your final grade will be computed as the total
 number of points you achieved divided by the number of points possible.
 The instructor reserves the right to apply a curve to the final result.
 
-
-## Grading Criteria [Tentative]
 
 | Category        | Percentage  |
 | ------------- |:-------------:| 
@@ -68,10 +43,9 @@ The instructor reserves the right to apply a curve to the final result.
 | Quizzes          | 10% |
 | Survey and Class Participation| 5%|
 
+**Important (late submissions):** Submissions will be due by midnight on the day mentioned in the assignment and homework description. Late submissions will be penalized with an automatic 20 percent penalty per day (applied relative to the graded score for the submission). Also, no collaboration is allowed unless explicitly cleared by the Instructors.  Please see the honor policy statement below.
 
-## Course Policies
-
-Submissions will be due by midnight on the day mentioned in the assignment and homework description. Late submissions will be penalized with an automatic **20 percent penalty per day** (applied relative to the graded score for the submission).
+**Honor Policy:** In terms of this course, the basic rule is this -- all work submitted in this class must be done completely on your own without assistance from any person, place, or thing except the instructors or TAs for this course and the course textbook and course lecture slides. If you have any doubts, ask your instructor for clarification, not another student (not even the teaching assistants).
 
 ## Letter Grade Distribution
 
@@ -90,6 +64,7 @@ Submissions will be due by midnight on the day mentioned in the assignment and h
 | 60.00 - 62.99  | D-  |
 | <= 59.99   |  F  |
 
+The Instructor reserves the right to apply a curve to the final grades.
 
 ## Disability Statement
 
