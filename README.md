@@ -13,7 +13,7 @@ It is expected that the student taking this course is familiar with concepts lik
 # Python Environment
 For example, a very simple way to set anaconda python is to install it on your machine and then create an environment. Just follow the instructions at https://github.com/vu-topics-in-big-data-2021/class-python-environment Alternatively, you can also just use [google colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c). See instructions in the instruction folder on bright space.
 
-# Course Outline [Tentative]
+# Course Outline 
 
 Please see the [schedule](https://docs.google.com/spreadsheets/d/1S6dYhV9UzUiSuenGvq8ULp_EZlxMD_NGOgtBXjxoBUI/edit?usp=sharing)
 
