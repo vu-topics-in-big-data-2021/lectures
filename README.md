@@ -17,12 +17,7 @@ For example, a very simple way to set anaconda python is to install it on your m
 
 Please see the [schedule](https://docs.google.com/spreadsheets/d/1S6dYhV9UzUiSuenGvq8ULp_EZlxMD_NGOgtBXjxoBUI/edit?usp=sharing)
 
-Here is the pdf version of the schedule.
-<object data="https://github.com/vu-topics-in-big-data-2021/lectures/blob/main/schedule-of-the-class.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/vu-topics-in-big-data-2021/lectures/blob/main/schedule-of-the-class.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/vu-topics-in-big-data-2021/lectures/raw/main/schedule-of-the-class.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQEAxNu2vakcTTYC4T4SGfwz9tzcYbOHtGTCi1T8DlZB2ftUqg78zy026sYI598JU4e93AUgkca_py/pubhtml?gid=597734652&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Instructors
 
