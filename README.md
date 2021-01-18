@@ -17,7 +17,7 @@ For example, a very simple way to set anaconda python is to install it on your m
 
 Please see the [schedule](https://docs.google.com/spreadsheets/d/1S6dYhV9UzUiSuenGvq8ULp_EZlxMD_NGOgtBXjxoBUI/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQEAxNu2vakcTTYC4T4SGfwz9tzcYbOHtGTCi1T8DlZB2ftUqg78zy026sYI598JU4e93AUgkca_py/pubhtml?gid=597734652&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width=600 height=500  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQEAxNu2vakcTTYC4T4SGfwz9tzcYbOHtGTCi1T8DlZB2ftUqg78zy026sYI598JU4e93AUgkca_py/pubhtml?gid=597734652&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Instructors
 
