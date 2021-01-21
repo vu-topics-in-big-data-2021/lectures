@@ -58,7 +58,7 @@ The instructor reserves the right to apply a curve to the final result.
 
 **Important (late submissions):** Submissions will be due by midnight on the day mentioned in the assignment and homework description. Late submissions will be penalized with an automatic 20 percent penalty per day (applied relative to the graded score for the submission). Also, no collaboration is allowed unless explicitly cleared by the Instructors.  Please see the honor policy statement below.
 
-**Honor Policy:** In terms of this course, the basic rule is this -- all work submitted in this class must be done completely on your own without assistance from any person, place, or thing except the instructors or TAs for this course and the course textbook and course lecture slides. If you have any doubts, ask your instructor for clarification, not another student (not even the teaching assistants).
+**Honor Policy:** In terms of this course, the basic rule is this -- all work submitted in this class must be done completely on your own without assistance from any person, place, or thing except the instructors or TAs for this course and the course materials, papers provided and course lecture slides. If you have any doubts, ask your instructor for clarification, not another student (not even the teaching assistants).
 
 ## Letter Grade Distribution
 
