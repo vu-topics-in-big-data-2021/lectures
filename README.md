@@ -40,11 +40,12 @@ The schedule is also available as a [pdf in the repository](schedule-of-the-clas
 
 ## Instructors
 
-- Prof. [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey) (Lead Instructor)
-- Mr. Nithin Guruswamy (PhD Candidate, Role: TA) 
-- Mr. Zhuangwei Kang (PhD Candidate, Role: TA) 
+- Prof. [Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey) (Lead Instructor) (Available by Appointments on Fridays 2-3 PM US Central)
+- Mr. Nithin Guruswamy (PhD Candidate, Role: TA) (Available by appointments 12-1 Central Monday and 3 PM-4PM Central on Wednesday. Zoom Link in Brightspace)
+- Mr. Zhuangwei Kang (PhD Candidate, Role: TA) (Available Tuesday 11 AM-12 PM Central and Thursday 5PM-6PM US Central. Zoom Link in Brightspace)
 - Mr. Riyan Kabir (Role: Undergraduate Grader)
 
+ 
 If you are interested in the research work of the team visit: https://scopelab.ai/
 
 ## Evaluation  Criteria
